@@ -1,2 +1,2 @@
-# ENDING_ISS
-Official code for paper "Evolving Knowledge Mining for Class Incremental Segmentation"
+# Evolving Knowledge Mining for Class Incremental Segmentation
+The code is coming soon.
